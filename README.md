@@ -11,7 +11,8 @@ The goal of the competition, as the title suggests, was to produce a forecast us
 
 # Sources
 Code snippets, information, and ideas were used from the sources listed below:
-* Quinn Wang (https://www.youtube.com/channel/UCgc9e-Ma04hZWogxvw2lp9g)
-* 
-*
-*
+* https://www.youtube.com/channel/UCgc9e-Ma04hZWogxvw2lp9g
+* https://gist.github.com/tartakynov/83f3cd8f44208a1856ce
+* https://www.youtube.com/watch?time_continue=9&v=bn8rVBuIcFg
+* https://www.youtube.com/watch?v=VYpAodcdFfA
+* https://ipython-books.github.io/101-analyzing-the-frequency-components-of-a-signal-with-a-fast-fourier-transform/

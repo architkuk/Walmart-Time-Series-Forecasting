@@ -1,4 +1,4 @@
-# 562-Final-M5-Forecasting
+# Walmart Time Series Forecasting
 ## Authors: Archit Kulkarni, Adhithya Narayanan, Tyler Youngberg, Vibhu Ambil
 
 Using the Kaggle M5 Forecasting-Accuracy dataset, we have built forecast models using several algorithms, including:

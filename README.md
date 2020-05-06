@@ -11,7 +11,7 @@ The goal of the competition, as the title suggests, was to produce a forecast us
 
 # Sources
 Code snippets, information, and ideas were used from the sources listed below:
-* apples
-*
+* Quinn Wang (https://www.youtube.com/channel/UCgc9e-Ma04hZWogxvw2lp9g)
+* 
 *
 *
